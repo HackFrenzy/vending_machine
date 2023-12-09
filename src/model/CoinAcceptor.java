@@ -3,7 +3,7 @@ package model;
 public class CoinAcceptor {
     private int amount;
 
-    public CoinAcceptor(int amount) {
+    public CoinAcceptor() {
         this.amount = amount;
     }
 
