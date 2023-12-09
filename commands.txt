@@ -1,0 +1,7 @@
+git clone
+cd
+git checkout
+touch
+git add
+git commit
+git push
